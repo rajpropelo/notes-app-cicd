@@ -1,4 +1,4 @@
-# notes-app-ci/cd-example update 2
+# notes-app-ci/cd-example update 3
 Simple Node.js application with unit tests to show how to automate tests using Harness CI!
 
 ## Prerequisites
